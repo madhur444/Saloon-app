@@ -1,0 +1,58 @@
+body {
+  background-color: #171622;
+}
+.boss {
+  background-color: #171622;
+  height: 270px;
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.ooo,
+.tww {
+  height: 200px;
+  width: 30%;
+  color: white;
+  line-height: 23px;
+  margin-left: 50px;
+}
+.ooo h3,
+.tww h3 {
+  font-size: 30px;
+  margin-bottom: 35px;
+}
+.tww a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+  margin-top: 5px;
+}
+.tww {
+  margin-left: 250px;
+}
+
+.ttt {
+  height: 200px;
+  width: 30%;
+  color: white;
+  line-height: 35px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+.ttt h3 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+a:hover {
+  text-decoration: underline;
+}
+.copy {
+  color: white;
+  font-size: 20px;
+  width: 400px;
+  margin: 0 auto;
+  background-color: #171622;
+  margin-bottom: 20px;
+}

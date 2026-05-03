@@ -1,0 +1,81 @@
+.container{
+    height: 1000px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+background: url("tities/cover.jpg");
+background-size: cover;
+}
+
+.heading-one
+{
+    color:white;
+margin-left:30px;
+font-size: 22px;
+}
+.heading2
+{
+    color: white;
+    font-size:28px;
+    display: flex;
+      font-family: "Mogra", system-ui;
+  font-weight: 800;
+}
+.wow 
+{
+    background-color: white;
+    color: #2337fa;
+  font-family: "Outfit", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+
+  padding: 10px;
+
+}
+.wow2{
+    margin-top: 10px;
+      font-family: "Outfit", sans-serif;
+  font-weight: 900;
+}
+.text-one
+{
+    color: white;
+    font-size: 23px;
+margin-top: 10px;
+}
+.text-two{
+    color: white;
+    font-size: 23px;
+    margin-left: 175px;
+    margin-top: 6px;
+}
+.buttons{
+    display: flex;
+    gap: 30px;
+    margin-left: 60px;
+}
+.obtn{
+    height: 42px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    background:linear-gradient(90deg, #2337fa, #1929b2 61%, #1b1c6b) ;
+    color: white;
+    border: none;
+}
+.tbtn{
+    height: 42px;
+    width: 190px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: gray ;
+    color: white;
+    border: 2px solid white;
+}
+
+.obtn:hover{ box-shadow: 0 0 12px rgba(249, 249, 249, 0.875);}
+.tbtn:hover{ box-shadow: 0 0 12px rgba(249, 249, 249, 0.875);}

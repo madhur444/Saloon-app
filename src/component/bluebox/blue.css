@@ -1,0 +1,51 @@
+.Blue-Box {
+  background-color: ;
+  height: 350px;
+  width: 600px;
+  border-radius: 9px;
+  margin-bottom: 100px;
+
+  background: linear-gradient(90deg, #2337fa, #1929b2 61%, #1b1c6b);
+  text-align: center;
+  color: white;
+  padding: 25px;
+}
+.Blue-Box h2 {
+  font-size: 33px;
+}
+input {
+  width: 530px;
+  height: 45px;
+  margin-top: 30px;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 10px;
+}
+.Blue-Box p {
+  margin-top: 35px;
+}
+.Blue-Box a {
+  color: aquamarine;
+}
+.hoe {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+.end button {
+  width: 530px;
+  background-color: rgb(7, 102, 255);
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 4px;
+  font-size: 22px;
+  color: white;
+}
+.end button:hover {
+  background-color: rgb(198, 198, 198);
+  color: black;
+  transition: 0.5s;
+  height: 55px;
+  width: 550px;
+}

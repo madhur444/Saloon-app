@@ -1,0 +1,51 @@
+.connect {
+  padding-top: 20px;
+  height: 600px;
+  width: 100%;
+  background-color: #14131a;
+  text-align: center;
+}
+.contact-header h1 {
+  color: white;
+  margin-bottom: 15px;
+}
+.connect p {
+  color: gray;
+  font-size: 17px;
+}
+.contact-header p {
+  color: gray;
+  margin-bottom: 62px;
+}
+.pata {
+  color: white;
+  margin-bottom: 45px;
+}
+.pata button {
+  font-size: 34px;
+  width: 200px;
+  border-radius: 8px;
+  text-align: center;
+}
+.connect button {
+  font-size: 31px;
+  height: 50px;
+  width: 250px;
+  border-radius: 12px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.call {
+  margin-bottom: 35px;
+  color: white;
+}
+.Email {
+  margin-bottom: 65px;
+  color: white;
+}
+.enquires {
+  color: white;
+}
+.enquires p {
+  font-size: 22px;
+}

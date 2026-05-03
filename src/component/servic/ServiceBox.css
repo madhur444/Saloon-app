@@ -1,0 +1,26 @@
+
+ .daba {
+  background-color: rgb(36, 36, 36);
+  color: white;
+  padding: 25px;
+  border-radius: 15px;
+  border: 2px solid white;
+  height: 190px;
+}
+
+.daba h1 {
+  font-size: 34px;
+  margin-bottom: 5px;
+}
+
+.daba p {
+  font-size: 18px;
+}
+.daba:hover{
+color: black;
+background-color: white;
+transition: 0.7s;
+}
+.daba:hover h1 {
+    color: blue;
+}

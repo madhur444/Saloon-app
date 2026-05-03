@@ -1,0 +1,30 @@
+.bucket {
+  height: 1200px;
+  width: 80%;
+  margin: 0 auto;
+  background-color: #14131a;
+  color: white;
+}
+.back-bucket {
+  background-color: #14131a;
+}
+.os {
+  width: 500px;
+  margin: 0 auto;
+}
+.hh {
+  font-size: 52px;
+  width: 350px;
+  margin: 0 auto;
+}
+.h4 {
+  font-size: 23px;
+  width: 490px;
+  margin-right: 20px;
+}
+.beat {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
